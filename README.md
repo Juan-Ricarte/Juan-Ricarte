@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning react js
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
+   
+  <div align="center">
+  <a href="https://github.com/Juan-Ricarte">
+  <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juan-Ricarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
+</div>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Juan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">        
