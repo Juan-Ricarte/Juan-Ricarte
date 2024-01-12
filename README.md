@@ -1,5 +1,5 @@
 <img  align="right" src="download.gif" height='370px' width='370px'>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ricarte&show_icons=true&border_color=00000000&theme=shadow_green&include_all_commits=true&count_private=true"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ricarte&show_icons=true&border_color=00000000&theme=shadow_green&include_all_commits=true&count_private=true&count_public=true&count_all_commits=true"/>
 <img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Ricarte&hide_border=true&layout=compact&theme=shadow_green">
   
 <div> <br>
