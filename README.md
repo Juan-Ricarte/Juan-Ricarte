@@ -12,6 +12,11 @@
 </div>
 
 ##
-<div>
-  <a href = "mailto:juanricarte77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+<div  align="center">
+  
+### Onde me encontrar 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-0240121b5/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Juan_Ricarte)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanricarte77@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561986448902&text=Ol%C3%A1%2C%20Victor.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
 </div>
